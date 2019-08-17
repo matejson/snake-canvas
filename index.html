@@ -1,14 +1,18 @@
 <html>
     <head>
-        <title>Snake Game</title>
+        <title>Moj Snake</title>
+        <meta charset="utf-8" />
         <link rel="stylesheet" type="text/css" href="style.css">
         
     </head>
     <body>
     <div class="canvas-container">
     <canvas id="snake" width="608" height="608"></canvas>
-    <button id='button'>Whats up</button> 
-    <img src="img/food.png" class="bounce">
+        <button value="Refresh Page" onClick="window.location.reload();" id="button" color="black">
+            ZAŁADUJ OD NOWA
+        </button>
+    <img src="img/food.png" id="bounce">
+    <p id="empty"></p>
     </div>
     
     <script src="snake.js"></script>
