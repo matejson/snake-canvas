@@ -135,7 +135,7 @@ function draw(){
     if(snakeX < box || snakeX > 17 * box || snakeY < 3*box || snakeY > 17*box || collision(newHead,snake)){
         clearInterval(game);
         dead.play();
-       document.getElementById('empty').innerHTML = "Przegrałeś :( " +"Twoj wynik to: " + score
+       document.getElementById('empty').innerHTML = "Przegrałeś :( \nTwoj wynik to: " + score
     }
     
     snake.unshift(newHead);
