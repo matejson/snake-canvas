@@ -35,7 +35,7 @@ canvas {
 }
 #button:active {
 	position:relative;
-	top:1px;
+	top:15px;
 }
 
 

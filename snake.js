@@ -149,3 +149,10 @@ function draw(){
 // rysuj funkcje co 100ms
 
 let game = setInterval(draw,100);
+
+
+// informacja w oknie
+
+window.onload = function(){
+    alert('STEROWANIE STRZAŁKAMI')
+}
