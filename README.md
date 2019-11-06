@@ -1,5 +1,5 @@
 # Snake
-A popular game made in HTML Canvas. Control using the arrows
+A popular game made in HTML Canvas. It is a grid based game where the player plays as a snake and has to eat his food. Control using the arrows
 
 ## Technologies used in this project:
 * CSS
