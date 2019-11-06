@@ -8,5 +8,5 @@ A popular game made in HTML Canvas. Control using the arrows
 
 
 # Preview
-<a href="https://imgflip.com/gif/3fdf4k"><img src="https://media.giphy.com/media/PkLCCcvhstjn4mRFMR/giphy.gif" width="650"></a>
+<a href="https://media.giphy.com/media/PkLCCcvhstjn4mRFMR/giphy.gif"><img src="https://media.giphy.com/media/PkLCCcvhstjn4mRFMR/giphy.gif" width="650"></a>
 
